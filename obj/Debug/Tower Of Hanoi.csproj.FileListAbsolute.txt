@@ -1,0 +1,7 @@
+C:\Users\hedaya\Desktop\File Organization c#\Tower Of Hanoi\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.exe.config
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Tower Of Hanoi\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.exe.config
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Tower Of Hanoi\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.exe
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Tower Of Hanoi\Tower Of Hanoi\bin\Debug\Tower Of Hanoi.pdb
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Tower Of Hanoi\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.csprojResolveAssemblyReference.cache
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Tower Of Hanoi\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.exe
+C:\Users\KIMO\Documents\Visual Studio 2013\Projects\Tower Of Hanoi\Tower Of Hanoi\obj\Debug\Tower Of Hanoi.pdb
